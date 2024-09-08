@@ -109,7 +109,12 @@ body{
         text-align: center;
     }
 
-
+    .number-.bola1, .bola2, .bola3, .bola4, .bola5{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 30px;
+    }
 
     .p1, .p2, .p3, .p4 {
         width: 200px;
